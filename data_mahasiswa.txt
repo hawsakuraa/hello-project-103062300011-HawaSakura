@@ -1,0 +1,21 @@
+Data Pendaftaran Mahasiswa:
+Email: adit@gmail.com, Nama: Adit Jarwo, Jurusan: Desain Komunikasi Visual, Telepon: 0834599925, Nilai Tes: 45.00, Status: Ditolak
+Email: vira@icloud.com, Nama: Alvira Yeni, Jurusan: Desain Komunikasi Visual, Telepon: 0884231988, Nilai Tes: 83.00, Status: Diterima
+Email: anien@gmail.com, Nama: Anien Dewi, Jurusan: Sistem Informasi, Telepon: 0888237761, Nilai Tes: 80.00, Status: Diterima
+Email: armin@icloud.com, Nama: Armin Arlert, Jurusan: Teknologi Informasi, Telepon: 0854389210, Nilai Tes: 90.00, Status: Diterima
+Email: karen@gmail.com, Nama: Aulia Karen, Jurusan: Informatika, Telepon: 0873289421, Nilai Tes: 87.00, Status: Diterima
+Email: disya@gmail.com, Nama: Disya Resnanda, Jurusan: Teknologi Informasi, Telepon: 0814032006, Nilai Tes: 97.00, Status: Diterima
+Email: fikry@yahoo.com, Nama: Fikry Chelsea, Jurusan: Informatika, Telepon: 0821459987, Nilai Tes: 89.00, Status: Diterima
+Email: gaby@icloud.com, Nama: Gaby Winata, Jurusan: Teknik Telekomunikasi, Telepon: 0872618943, Nilai Tes: 95.00, Status: Diterima
+Email: hawa@gmail.com, Nama: Hawa Sakura, Jurusan: Sistem Informasi, Telepon: 0823237491, Nilai Tes: 95.00, Status: Diterima
+Email: mahesa@gmail.com, Nama: Mahesa Madrid, Jurusan: Sistem Informasi, Telepon: 0812348889, Nilai Tes: 82.00, Status: Diterima
+Email: padil@icloud.com, Nama: Padil Mail, Jurusan: Teknologi Informasi, Telepon: 0847762190, Nilai Tes: 78.00, Status: Diterima
+Email: putri@gmail.com, Nama: Putri Kumala, Jurusan: Informatika, Telepon: 0858899127, Nilai Tes: 56.00, Status: Ditolak
+Email: reki@yahoo.com, Nama: Reki Kyan, Jurusan: Desain Komunikasi Visual, Telepon: 0857342977, Nilai Tes: 54.00, Status: Ditolak
+Email: reva@gmail.com, Nama: Revalina Azahra, Jurusan: Teknik Industri, Telepon: 0818257823, Nilai Tes: 85.00, Status: Diterima
+Email: rizky@icloud.com, Nama: Rizky Febian, Jurusan: Desain Komunikasi Visual, Telepon: 0896785412, Nilai Tes: 93.00, Status: Diterima
+Email: roy@icloud.com, Nama: Roy Sajalah, Jurusan: Teknik Industri, Telepon: 0816745230, Nilai Tes: 62.00, Status: Ditolak
+Email: sherly@icloud.com, Nama: Sherly Kartika, Jurusan: Sistem Informasi, Telepon: 0892378651, Nilai Tes: 92.00, Status: Diterima
+Email: tanjiro@gmail.com, Nama: Tanjiro Kamado, Jurusan: Teknik Telekomunikasi, Telepon: 0897325541, Nilai Tes: 50.00, Status: Ditolak
+Email: vani@gmail.com, Nama: Vania Virgin, Jurusan: Teknik Elektro, Telepon: 0873328911, Nilai Tes: 88.00, Status: Diterima
+Email: yoga@yahoo.com, Nama: Yoga Aiy, Jurusan: Teknik Industri, Telepon: 0862315550, Nilai Tes: 94.00, Status: Diterima
